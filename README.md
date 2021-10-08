@@ -4,6 +4,10 @@ First test successful (October 2nd 2021)
 
 ![](https://github.com/Carji/Computer-Vision-Backbone/blob/main/sampled_output/sample_1.gif?raw=true)
 
-Second test successful (October 3nd 2021)
+Second test successful (October 3rd 2021)
 
 ![](https://github.com/Carji/Computer-Vision-Backbone/blob/main/sampled_output/sample_2.gif?raw=true)
+
+Third test successful (October 8th 2021)
+
+![](https://github.com/Carji/Computer-Vision-Backbone/blob/main/sampled_output/sample_3.gif?raw=true)
