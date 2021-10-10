@@ -11,3 +11,7 @@ Second test successful (October 3rd 2021)
 Third test successful (October 8th 2021)
 
 ![](https://github.com/Carji/Computer-Vision-Backbone/blob/main/sampled_output/sample_3.gif?raw=true)
+
+Face meshing test successful (October 10th 2021)
+
+![](https://github.com/Carji/Computer-Vision-Backbone/blob/main/sampled_output/sample_4.gif?raw=true)
