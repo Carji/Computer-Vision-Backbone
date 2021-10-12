@@ -20,3 +20,7 @@ Moving target tracking test (October 12th 2021)
 
 ![](https://github.com/Carji/Computer-Vision-Backbone/blob/main/analysed/moving_sample.gif?raw=true)
 ![](https://github.com/Carji/Computer-Vision-Backbone/blob/main/sampled_output/sample_5.gif?raw=true)
+
+Raw data sampling test (October 12th 2021)
+
+![](https://github.com/Carji/Computer-Vision-Backbone/blob/main/analysed/sample_6.gif?raw=true)
