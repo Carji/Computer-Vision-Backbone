@@ -15,3 +15,8 @@ Third test successful (October 8th 2021)
 Face meshing test successful (October 10th 2021)
 
 ![](https://github.com/Carji/Computer-Vision-Backbone/blob/main/sampled_output/sample_4.gif?raw=true)
+
+Moving target tracking test (October 12th 2021)
+
+![](https://github.com/Carji/Computer-Vision-Backbone/blob/main/analysed/moving_sample.gif?raw=true)
+![](https://github.com/Carji/Computer-Vision-Backbone/blob/main/sampled_output/sample_5.gif?raw=true)
